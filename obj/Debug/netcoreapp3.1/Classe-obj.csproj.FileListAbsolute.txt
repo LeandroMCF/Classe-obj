@@ -1,0 +1,13 @@
+C:\Users\leand\OneDrive\Área de Trabalho\Classe-obj\bin\Debug\netcoreapp3.1\Classe-obj.exe
+C:\Users\leand\OneDrive\Área de Trabalho\Classe-obj\bin\Debug\netcoreapp3.1\Classe-obj.deps.json
+C:\Users\leand\OneDrive\Área de Trabalho\Classe-obj\bin\Debug\netcoreapp3.1\Classe-obj.runtimeconfig.json
+C:\Users\leand\OneDrive\Área de Trabalho\Classe-obj\bin\Debug\netcoreapp3.1\Classe-obj.runtimeconfig.dev.json
+C:\Users\leand\OneDrive\Área de Trabalho\Classe-obj\bin\Debug\netcoreapp3.1\Classe-obj.dll
+C:\Users\leand\OneDrive\Área de Trabalho\Classe-obj\bin\Debug\netcoreapp3.1\Classe-obj.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\Classe-obj\obj\Debug\netcoreapp3.1\Classe-obj.csprojAssemblyReference.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Classe-obj\obj\Debug\netcoreapp3.1\Classe-obj.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Classe-obj\obj\Debug\netcoreapp3.1\Classe-obj.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Área de Trabalho\Classe-obj\obj\Debug\netcoreapp3.1\Classe-obj.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Classe-obj\obj\Debug\netcoreapp3.1\Classe-obj.dll
+C:\Users\leand\OneDrive\Área de Trabalho\Classe-obj\obj\Debug\netcoreapp3.1\Classe-obj.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\Classe-obj\obj\Debug\netcoreapp3.1\Classe-obj.genruntimeconfig.cache
